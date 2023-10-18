@@ -2,7 +2,7 @@
 public class tehtava {
 
 	public static void main(String[] args) {
-int ika = 20;
+int ika = 16;
 
 		
 
